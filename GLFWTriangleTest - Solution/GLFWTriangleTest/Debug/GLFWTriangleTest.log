@@ -1,0 +1,9 @@
+﻿SourceOFTheTriangle.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+SourceOFTheTriangle.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+SourceOFTheTriangle.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+SourceOFTheTriangle.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+SourceOFTheTriangle.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+SourceOFTheTriangle.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+SourceOFTheTriangle.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+C:\Users\thiagorh\Desktop\OpenGL_Pipeline-master\GLFWTriangleTest - Solution\Dependencies\GLFW\lib-vc2015\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\thiagorh\Desktop\OpenGL_Pipeline-master\GLFWTriangleTest - Solution\Debug\GLFWTriangleTest.exe : fatal error LNK1120: 7 unresolved externals

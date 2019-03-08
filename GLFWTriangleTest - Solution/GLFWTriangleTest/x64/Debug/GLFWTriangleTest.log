@@ -1,0 +1,4 @@
+﻿  SourceOFTheTriangle.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GLFWTriangleTest.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\GLFWTriangleTest.exe
+  GLFWTriangleTest.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\GLFWTriangleTest.pdb (Partial PDB)
