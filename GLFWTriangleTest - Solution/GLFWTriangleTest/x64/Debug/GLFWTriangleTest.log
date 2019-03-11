@@ -1,6 +1,3 @@
-﻿  glad.c
-cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
-  SourceOFTheTriangle.cpp
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+﻿  SourceOFTheTriangle.cpp
   GLFWTriangleTest.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\GLFWTriangleTest.exe
   GLFWTriangleTest.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\GLFWTriangleTest.pdb (Partial PDB)
