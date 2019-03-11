@@ -1,3 +1,7 @@
-﻿  Main.cpp
-  Exercise2.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\Exercise2.exe
-  Exercise2.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\Exercise2.pdb (Partial PDB)
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Exercise2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  Skipping... (no relevant changes detected)
+  Main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Exercise2.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\Exercise1B.exe
+  Exercise2.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\Exercise1B.pdb (Partial PDB)

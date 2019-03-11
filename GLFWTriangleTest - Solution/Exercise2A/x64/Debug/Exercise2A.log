@@ -1,0 +1,5 @@
+﻿  glad.c
+  Main2A.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Exercise2A.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\Exercise2A.exe
+  Exercise2A.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\Exercise2A.pdb (Partial PDB)
