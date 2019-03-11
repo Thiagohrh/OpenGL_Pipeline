@@ -1,9 +1,11 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <iostream>
-
 //using the new Shader class...
 #include "Shader.h"
+//using the new image loader class..
+#define STB_IMAGE_IMPLEMENTATION
+#include "stb_image.h"
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);

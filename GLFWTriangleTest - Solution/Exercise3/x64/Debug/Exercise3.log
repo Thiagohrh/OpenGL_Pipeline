@@ -1,3 +1,4 @@
 ﻿  Main3.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   Exercise3.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\Exercise3.exe
   Exercise3.vcxproj -> C:\Users\thiag\Documents\GitHub\OpenGL\OpenGL_Pipeline\GLFWTriangleTest - Solution\x64\Debug\Exercise3.pdb (Partial PDB)
